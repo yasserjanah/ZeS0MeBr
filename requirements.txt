@@ -1,4 +1,4 @@
-requests==2.18.4
+requests==2.22.0
 beautifulsoup4==4.6.0
 mechanicalsoup==0.10.0
 skpy==0.8.2
