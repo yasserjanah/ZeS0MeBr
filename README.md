@@ -4,8 +4,8 @@
 ```
     [+] AUTOR:        Yasser Janah
     [+] GITHUB:       https://github.com/Y4SS3R005
-    [+] TWITTER:      https://twitter.com/Y4ss3rJ4n4h
-    [+] FACEBOOK:     https://fb.com/yasserjanah19
+    [+] TWITTER:      https://twitter.com/yasser_janah
+    [+] FACEBOOK:     https://fb.com/yasser.janah
 ```
 # Getting the code
 
@@ -32,7 +32,7 @@ pip3 install -r requirements.txt
 Usage: python3 ./New_Zer0-day_Bruteforce.py -e [EMAIL] -w [WORDLIST] --facebook/--hotmail/--twitter/--skype/--gmail/--instagram
 
 	<< Social Media Brute force attack .. Coded by : Yasser Janah (Y4SS3R005) >>
-	<< facebook : https://facebook.com/yasserjanah19  >>
+	<< facebook : https://facebook.com/yasser.janah  >>
 
 required arguments:
 	-e , --email		a valid email address
