@@ -3,7 +3,7 @@
 
 ```
     [+] AUTOR:        Yasser Janah
-    [+] GITHUB:       https://github.com/Y4SS3R005
+    [+] GITHUB:       https://github.com/yasserjanah
     [+] TWITTER:      https://twitter.com/yasser_janah
     [+] FACEBOOK:     https://fb.com/yasser.janah
 ```
@@ -11,7 +11,7 @@
 
 Firstly get the code:
 ```
-git clone https://github.com/Y4SS3R005/ZeS0MeBr.git
+git clone https://github.com/yasserjanah/ZeS0MeBr.git
 cd ZeS0MeBr/
 pip3 install -r requirements.txt
 ```
