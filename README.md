@@ -1,5 +1,5 @@
 # ZeS0MeBr
- Python script attack all social media accounts .. created by Yasser Janah (Y4SS3R005)
+ Python script attack all social media accounts .. created by Yasser Janah (th3x0ne)
 
 ```
     [+] AUTOR:        Yasser Janah
@@ -31,8 +31,8 @@ pip3 install -r requirements.txt
 
 Usage: python3 ./New_Zer0-day_Bruteforce.py -e [EMAIL] -w [WORDLIST] --facebook/--hotmail/--twitter/--skype/--gmail/--instagram
 
-	<< Social Media Brute force attack .. Coded by : Yasser Janah (Y4SS3R005) >>
-	<< facebook : https://facebook.com/yasser.janah  >>
+	<< Social Media Brute force attack .. Coded by : Yasser Janah (th3x0ne) >>
+	<< facebook : https://facebook.com/yasser.janah0  >>
 
 required arguments:
 	-e , --email		a valid email address
