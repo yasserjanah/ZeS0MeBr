@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 '''
-     Python script attack all social media accounts .. written by Yasser Janah (Y4SS3R005)
+     Python script attack all social media accounts .. written by Yasser Janah (th3x0ne)
     
-     facebook : https://facebook.com/yasser.janah
+     facebook : https://facebook.com/yasser.janah0
 '''
 class Fore:
     BOLD = "\033[1m"
@@ -48,8 +48,8 @@ class core:
         sys.exit()
     def print_help():
         print(Fore.YELLOW+"Usage:"+Fore.WHITE+" python3 " + sys.argv[0] + " -e [EMAIL] -w [WORDLIST] --facebook/--hotmail/--twitter/--skype/--gmail/--instagram")
-        print(Fore.WHITE+"\n\t<< "+Fore.YELLOW+"Social Media Brute force attack .. Coded by : "+Fore.GREEN+"Yasser Janah "+Fore.RED+"("+Fore.CYAN+"Y4SS3R005"+Fore.RED+")"+Fore.WHITE+" >>")
-        print(Fore.WHITE+"\t<< "+Fore.GREEN+"facebook : "+Fore.WHITE+"https://facebook.com/"+Fore.RED+"yasser.janah "+Fore.WHITE+" >>\n")
+        print(Fore.WHITE+"\n\t<< "+Fore.YELLOW+"Social Media Brute force attack .. Coded by : "+Fore.GREEN+"Yasser Janah "+Fore.RED+"("+Fore.CYAN+"th3x0ne"+Fore.RED+")"+Fore.WHITE+" >>")
+        print(Fore.WHITE+"\t<< "+Fore.GREEN+"facebook : "+Fore.WHITE+"https://facebook.com/"+Fore.RED+"yasser.janah0 "+Fore.WHITE+" >>\n")
         print(Fore.WHITE+'\033[1m\033[4mrequired arguments\033[0m:')
         print(Fore.WHITE+'\t-e , --email\t\ta valid email address')
         print(Fore.WHITE+'\t-w , --wordlist\t\tfile containing passwords')
